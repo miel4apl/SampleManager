@@ -1,0 +1,1 @@
+The app is a PWA starter. Add a public/manifest.webmanifest and public/sw.js before deployment.
